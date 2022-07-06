@@ -1,0 +1,2 @@
+# WiLD-MeSSaGe-LoGGeR
+SimPLe AF DiSCoRD MoRe THaN OnE SeRVeR MeSSaGe LoGGeR
