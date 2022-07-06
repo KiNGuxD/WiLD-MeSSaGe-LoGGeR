@@ -1,0 +1,21 @@
+{
+  "name": "EmbellishedBlueCoordinates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "discord-image": "^1.5.0",
+    "discord-inline-reply": "^1.0.3",
+    "discord-phub": "^1.0.7",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-selfbot": "^12.0.2"
+  }
+}
